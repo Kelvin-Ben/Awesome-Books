@@ -42,9 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Alexandre Ferreira**
+👤 **KELVIN BENJAMIN**
 
-- GitHub: [@alexmedinasf](https://github.com/Kelvin-Ben)
+- GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
 
 
 ## 🤝 Contributing
