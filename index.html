@@ -8,13 +8,36 @@
 </head>
 <body>
   <div class="container">
-    <h1>All Awesome Books</h1>
-   <section class="books">
-    <form action="">
-      <input type="text" name=""  class="">
-      <input type="text" name="" class="">
+    <h1 class="container_title">All Awesome Books</h1>
+   <ul class="books">
+   <!-- <li class="book">
+      <span class="book_details">"Title" by Author</span>
+      <button class="remove_button">Remove</button>
+    </li>
+    <li class="book">
+      <span class="book_details">"Title" by Author</span>
+      <button class="remove_button">Remove</button>
+    </li>
+    <li class="book">
+      <span class="book_details">"Title" by Author</span>
+      <button class="remove_button">Remove</button>
+    </li>
+    <li class="book">
+      <span class="book_details">"Title" by Author</span>
+      <button class="remove_button" onclick="remove()">Remove</button>
+    </li>-->
+   </ul>
+   <div class="separator"></div>
+   <section class="add_book_section">
+    <h2 class="container_title">Add a new Book</h2>
+    <form action="" class="add_form">
+     <input type="text" name=""  class="form_input title" placeholder="Title">
+      <input type="text" name="" class="form_input author" placeholder="Author">
+      <button class="submit_button">Add</button>
     </form>
    </section>
+   
   </div>
+  <script src="./books.js"></script>
 </body>
 </html>
