@@ -1,6 +1,8 @@
 # Awesome books: plain JavaScript with classes
 
-> In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript classes and arrays. You will also need to dynamically modify the DOM and add basic events.
+- In this project, you will build a basic website that allows users to add/remove books from a list. 
+- You will achieve that by using JavaScript classes and arrays. 
+- You will also need to dynamically modify the DOM and add basic events.
 
 
 
@@ -42,7 +44,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Alexandre Ferreira**
 
-- GitHub: [@alexmedinasf](https://github.com/alexmedinasf)
+- GitHub: [@alexmedinasf](https://github.com/Kelvin-Ben)
 
 
 ## 🤝 Contributing
