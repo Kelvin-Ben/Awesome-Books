@@ -1,29 +1,7 @@
-class Book {
-  id='';
-
-  title='';
-
-  author='';
-
-  constructor(param_id, param_title, param_author) {
-    this.id = param_id;
-    this.title = param_title;
-    this.author = param_author;
-  }
-
-  generateBookLi(index) {
-    return `<li class="book"><span class="book_details">"${this.title
-    }" by ${this.author}</span><button class="remove_button" onClick="removeBook(${index})">Remove</button></li>`;
-  }
-}
+import Book from './book.js';
 
 class BookPage {
   booklist = [];
-
-  // eslint-disable-next-line no-useless-constructor, no-empty-function
-  constructor() {
-
-  }
 
   storeInMemory() {
     localStorage.setItem('pageBooks', JSON.stringify(this.booklist));
@@ -57,7 +35,7 @@ const page = new BookPage();
 const title = document.querySelector('.title');
 const author = document.querySelector('.author');
 
-function add_new_book(e) {
+function addnewbook(e) {
   e.preventDefault();
   page.addBook(new Book(page.generateId(), title.value, author.value));
   page.refreshBookList();
@@ -66,8 +44,10 @@ function add_new_book(e) {
 }
 
 function removeBook(index) {
-  page.remove(index);
-  page.refreshBookList();
+  if (index >= 0) {
+    page.remove(index);
+    page.refreshBookList();
+  }
 }
-
-document.querySelector('.submit_button').addEventListener('click', add_new_book);
+removeBook(-2);
+document.querySelector('.submit_button').addEventListener('click', addnewbook);
