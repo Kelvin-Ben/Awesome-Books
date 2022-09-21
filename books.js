@@ -1,6 +1,6 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable camelcase */
-/* eslint-disable max-classes-per-file */
+eslint-disable no-unused-vars
+eslint-disable camelcase
+eslint-disable max-classes-per-file
 class Book {
   id='';
 
@@ -39,7 +39,6 @@ class BookPage {
 
   addBook(book) {
     this.booklist.push(book);
-    // console.log(this.booklist);
     this.storeInMemory();
   }
 
