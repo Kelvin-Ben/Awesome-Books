@@ -42,11 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **KELVIN BENJAMIN**
-
-- GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
-
-
+- GitHub: [@Kelvin-Ben]
+- GitHub: [@hopeforkoami]
+- GitHub: [@alexmedinasf]
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
