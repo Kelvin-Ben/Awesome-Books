@@ -31,9 +31,25 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
+### Kelvin Benjamin
+
 - GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
+- Twitter: [@Kevoyout144](https://twitter.com/kevoyout144)
+- Linkedin [Kelvin Benjamin](https://www.linkedin.com/in/kelvin-ben-323043173/)
+
+ ### Koami NOGBEDJI
+
 - GitHub: [@hopeforkoami](https://github.com/hopeforkoami)
+- Twitter: [@KNogbedji](https://twitter.com/KNogbedji)
+- LinkedIn: [koami-nogbedji-a155b7233](https://linkedin.com/in/koami-nogbedji-a155b7233)
+
+### Alexandre Medina
+
 - GitHub: [@alexmedinasf](https://github.com/alexmedinasf)
+- Twitter: [@alexmedinasf](https://twitter.com/alexmedinasf)
+- Linkedin: [alexmedinasf](https://www.linkedin.com/in/alexmedinasf)
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
