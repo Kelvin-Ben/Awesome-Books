@@ -15,9 +15,6 @@ To get a local copy up and running follow these simple example steps.
 
 **This is the Awesome books: plain JavaScript with classes**
 
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
     Web Browser (e.g. Firefox, Chrome, Edge)
 
@@ -32,19 +29,11 @@ To get a local copy up and running follow these simple example steps.
 ### Install
     Install the linters in your local environment to mantain your code clean 
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-- GitHub: [@Kelvin-Ben]
-- GitHub: [@hopeforkoami]
-- GitHub: [@alexmedinasf]
+- GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
+- GitHub: [@hopeforkoami](https://github.com/hopeforkoami)
+- GitHub: [@alexmedinasf](https://github.com/alexmedinasf)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -54,5 +43,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
