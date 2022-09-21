@@ -10,10 +10,10 @@ class Book {
     this.title = paramtitle;
     this.author = paramauthor;
   }
-
+//onClick="removeBook(${index})"
   generateBookLi(index) {
     return `<li class="book"><span class="book_details">"${this.title
-    }" by ${this.author}</span><button class="remove_button" onClick="removeBook(${index})">Remove</button></li>`;
+    }" by ${this.author}</span><button class="remove_button" >Remove</button></li>`;
   }
 }
 export default Book;

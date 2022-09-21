@@ -51,3 +51,6 @@ function removeBook(index) {
 }
 removeBook(-2);
 document.querySelector('.submit_button').addEventListener('click', addnewbook);
+document.querySelector('.remove_button').array.forEach(element => {
+  element.addEventListener('click',removeBook())
+});;
